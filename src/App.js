@@ -10,6 +10,7 @@ function App() {
       </header>
       <div>
         <h1>Vocabulary Practice</h1>
+        <h2>Mock</h2>
       </div>
     </div>
   );

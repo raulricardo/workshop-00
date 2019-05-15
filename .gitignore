@@ -3,6 +3,8 @@
 # IDE workspaces
 *.sublime-project
 *.sublime-workspace
+*.code-workspace
+
 
 # dependencies
 /node_modules
